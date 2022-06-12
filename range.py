@@ -1,0 +1,6 @@
+no = list(range(10))
+print(no)
+no1 = list(range(3,8))
+print(no1)
+no2 = list(range(1,10,2))
+print(no2)
